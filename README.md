@@ -5,7 +5,7 @@ How To Run?
 - $ pkg update && pkg upgrade
 - $ pkg install nodejs
 - $ pkg install git
-- $ git clone https://github.com/coderxsa/spampairing.git
+- $ git clone https://github.com/coderxsa/pairingcode.git
 - $ cd SpamPairing
 - $ npm i
 - $ npm start
