@@ -6,7 +6,7 @@ How To Run?
 - $ pkg install nodejs
 - $ pkg install git
 - $ git clone https://github.com/coderxsa/pairingcode.git
-- $ cd paringcode
+- $ cd pairingcode
 - $ npm i
 - $ npm start
 
